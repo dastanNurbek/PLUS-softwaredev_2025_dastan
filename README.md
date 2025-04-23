@@ -1,3 +1,9 @@
-#### This is a Practice Software Development repository.
+## This is a Practice Software Development repository.
 
-Feel free to do a pull request with information about yourself.
+### A2: Recreating environment using conda
+
+#### Step 1
+I cloned the repository [https://github.com/augustinh22/geo-software-dev.git](https://github.com/augustinh22/geo-software-dev.git) using git bash
+```bash
+git clone https://github.com/augustinh22/geo-software-dev.git
+```
